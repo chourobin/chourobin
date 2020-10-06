@@ -3,8 +3,8 @@
 
 # Hi, I'm Robin 👋🏻
 
-- 🚕 I work on iOS at Lyft
-- 🌱 I'm currently learning SwiftUI and Composable Architecture
-- 🤿 I enjoy tea, scuba diving, and running
+- 📱 I work on iOS at Instagram in NYC
+- 🌱 I like using SwiftUI and Composable Architecture
+- 🤿 I enjoy movies, scuba diving, and lounging at the park
 - 💬 Ask me about anything
 - 📫 Reach me on twitter: [@chourobin](https://twitter.com/chourobin)
